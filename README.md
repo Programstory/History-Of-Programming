@@ -1,2 +1,2 @@
-# history-of-programming
-История Программирования
+# History-Of-Programming
+# История Программирования
